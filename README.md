@@ -1,4 +1,4 @@
-# Robotic_Gripping
+# Robotic Gripping
 ###### An example of a custom pneumatic gripper integration to get started with pneumatic actuation on a robotic arm.
 
 ![GripperMovement](Pictures/GripperMovment.jpg)
@@ -62,6 +62,8 @@ If customization is desired, Rhino files for each of the parts are in the reposi
 
 #### [Grasshopper Definition](Grasshopper/Basic_Robotic_Extrusion_WASP.gh)
 Comments on the definition.
+
+## Pictures and Videos
 
 ## Contributing
 
