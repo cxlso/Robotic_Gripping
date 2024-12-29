@@ -30,6 +30,9 @@ The analog signals can also be overwritten in real-time using the UR Teaching Pe
 - Electrical Connectors (JST XH in our case)
 - M8 8 Pin Female Connector Cable
 
+Both pneumatic gripper and electronic solenoid valve are industrial-grade, affordable, and readily available.
+This whole setup cost less than 60 USD at the time of writing.
+
 ## Setup and Installation
 ### Prerequisites
 
@@ -45,3 +48,38 @@ Refer to the following wiring diagram for the electrical connections.
 ![Wiring_Diagram](Wiring_Diagram/Wiring_Diagram.svg)
 Diagram made with the open-source tool [Fritzing](https://fritzing.org/).
 
+### CAD Files
+
+A structural body system fitting the robotic arm's flange was designed and fabricated connecting a generic MHC2-25D pneumatic gripper and a generic 5-way, 2-position solenoid valve.
+
+Picture
+
+- [Pressure Gauge Mount](Mounts/Print_WASP_Gauge_Mount.stl) 3D printing file.
+
+If customization is desired, Rhino files for each of the parts are in the repository.
+
+### Scripts
+
+#### [Grasshopper Definition](Grasshopper/Basic_Robotic_Extrusion_WASP.gh)
+Comments on the definition.
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
+
+## License
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+## Acknowledgements
+
+This project was developed on my own initiative at the [School of Architecture of Florida Atlantic University](https://www.fau.edu/artsandletters/architecture/) within the Environmental Design and Natural Materials lab, directed by Shermeen Yousif.
