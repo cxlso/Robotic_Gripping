@@ -20,3 +20,28 @@ The analog signals can also be overwritten in real-time using the UR Teaching Pe
 
 **Grasshopper (Extrusion Command Embeded in URP file/G-Code ) ⟶ UR10e (Digital Output 0-24V) ⟶ Electronic Solenoid Valve (Gate A-B) ⟶ MHC2-25D Pneumatic Gripper (Open-Closed)**
 
+## Components
+
+- Generic MHC2-25D Pneumatic Gripper
+- Generic 5-way 2-position Electronic Solenoid Valve (4V210-08)
+- 6mm Pneumatic Pipe Kit 
+- M5 6mm 90deg Pipe Fittings
+- M5 and M6 Hex Socket Head Screws (Mostly short)
+- Electrical Connectors (JST XH in our case)
+- M8 8 Pin Female Connector Cable
+
+## Setup and Installation
+### Prerequisites
+
+- UR10e Robotic Arm (or any UR models),
+- Afformentioned Components,
+- Air Compressor,
+- Rhino Grasshopper: For generating toolpath commands.
+
+### Wiring Diagram
+
+Refer to the following wiring diagram for the electrical connections.
+
+![Wiring_Diagram](Wiring_Diagram/Wiring_Diagram.svg)
+Diagram made with the open-source tool [Fritzing](https://fritzing.org/).
+
