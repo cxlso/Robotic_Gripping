@@ -52,6 +52,7 @@ Diagram made with the open-source tool [Fritzing](https://fritzing.org/).
 ### CAD Files
 
 A structural body system fitting the robotic arm's flange was designed and fabricated connecting a generic MHC2-25D pneumatic gripper and a generic 5-way, 2-position solenoid valve. Based on [the fin ray effect](https://doi.org/10.1007/s40430-024-04957-0), an adaptative and interchageable set of robotic fingers was also modeled.
+
 The later was also 3D printed with PLA and is working as expected. However, a PETG or TPU version would yield better results although the design would need to be adapted.
 
 ![GripperExploded](Pictures/GripperExploded.jpg)
