@@ -51,15 +51,15 @@ Diagram made with the open-source tool [Fritzing](https://fritzing.org/).
 
 ### CAD Files
 
-A structural body system fitting the robotic arm's flange was designed and fabricated connecting a generic MHC2-25D pneumatic gripper and a generic 5-way, 2-position solenoid valve. Based on [the fin ray effect](https://doi.org/10.1007/s40430-024-04957-0), an adaptative and interchageable set of robotic fingers was also modeled.<br>
-The later was also 3D printed with PLA and is working as expected. However, a PETG or TPU version would yield better results although the design would need to be adapted.
+A structural body system fitting the robotic arm's flange was designed and fabricated connecting a generic MHC2-25D pneumatic gripper and a generic 5-way, 2-position solenoid valve. Based on [the fin ray effect](https://doi.org/10.1007/s40430-024-04957-0), an adaptative and interchageable set of robotic fingers was also modeled.
+The later were also 3D printed with PLA and are working as expected. However, a PETG or TPU version would yield better results although the design would need to be adapted.
 
 ![GripperExploded](Pictures/GripperExploded.jpg)
 
-- [Body](Mounts/Print_WASP_Gauge_Mount.stl) 3D printing file.
-- [Fingers](Mounts/Print_WASP_Gauge_Mount.stl) 3D printing file.
+- [Gripper_Body](CAD/Gripper_Body.stl) 3D printing file.
+- [Adaptative_Fingers](CAD/Adaptative_Fingers.stl) 3D printing file.
 
-If customization is desired, Rhino files for each of the parts are in the repository.
+If customization is desired, a [Rhino file](CAD/Pneumatic_Gripper_System.3dm) of the gripper system is in the repository.
 
 ### Scripts
 
