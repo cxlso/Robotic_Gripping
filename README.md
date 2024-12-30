@@ -67,6 +67,8 @@ To control the pneumatic gripper on the UR10e, a basic Grasshopper definiton was
 
 This definition is based on a previous work about [Robotic Printing](https://github.com/cxlso/Robotic_Printing), follows the same visual framework and is also using the [Robots](https://www.food4rhino.com/en/app/robots) plugin by Visose.
 
+Instead of using the standard "Set Digital Output" component from the Robots plugin, the "Custom Command" was used to manualy set the tool digital output with the following commands: "set_tool_digital_out(0, True)" and "set_tool_digital_out(0, False)". This work-around was required because TO0 or TO, the digital outputs of the flange can't be access with the standrad "Set Digital Output".
+
 ![RoboticGripping_Basic_Script](Script/RoboticGripping_Basic_Script.jpg)
 
 ## Pictures and Videos
