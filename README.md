@@ -61,10 +61,12 @@ The later were also 3D printed with PLA and are working as expected. However, a 
 
 If customization is desired, a [Rhino file](CAD/Pneumatic_Gripper_System.3dm) of the gripper system is in the repository.
 
-### Scripts
+### Grasshopper Definition
 
-#### [Grasshopper Definition](Grasshopper/Basic_Robotic_Extrusion_WASP.gh)
-Comments on the definition.
+To control the pneumatic gripper on the UR10e, a basic Grasshopper definiton was made: [RoboticGripping_Basic_Script](Script/RoboticGripping_Basic_Script.gh)<br>
+This definition is based on a previous work about [Robotic Printing](https://github.com/cxlso/Robotic_Printing), follows the same visual framework and is also using the [Robots](https://www.food4rhino.com/en/app/robots) plugin by Visose.
+
+![RoboticGripping_Basic_Script](Script/RoboticGripping_Basic_Script.jpg)
 
 ## Pictures and Videos
 
