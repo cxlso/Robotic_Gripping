@@ -63,7 +63,8 @@ If customization is desired, a [Rhino file](CAD/Pneumatic_Gripper_System.3dm) of
 
 ### Grasshopper Definition
 
-To control the pneumatic gripper on the UR10e, a basic Grasshopper definiton was made: [RoboticGripping_Basic_Script](Script/RoboticGripping_Basic_Script.gh)<br>
+To control the pneumatic gripper on the UR10e, a basic Grasshopper definiton was made: [RoboticGripping_Basic_Script](Script/RoboticGripping_Basic_Script.gh).
+
 This definition is based on a previous work about [Robotic Printing](https://github.com/cxlso/Robotic_Printing), follows the same visual framework and is also using the [Robots](https://www.food4rhino.com/en/app/robots) plugin by Visose.
 
 ![RoboticGripping_Basic_Script](Script/RoboticGripping_Basic_Script.jpg)
