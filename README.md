@@ -73,6 +73,8 @@ This work-around was required because TO0 or TO1, the digital outputs of the fla
 
 ![RoboticGripping_Basic_Script](Script/RoboticGripping_Basic_Script.jpg)
 
+![GripperToolpathing](Pictures/GripperToolpathing.jpg)
+
 ## Pictures and Videos
 
 ## Contributing
