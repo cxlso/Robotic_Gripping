@@ -4,11 +4,11 @@
 ![GripperMovement](Pictures/GripperMovment.jpg)
 
 ## Overview
-This repository contains everyting needed to get on understanding on how to integrate a pneumatic actuator on a robotic arm, in our case the [Universal Robot UR10e](https://www.universal-robots.com/products/ur10-robot/) (or any UR model) through the example of a bespoke and affordable pneumatic gripper.
+This repository contains everyting needed to get on understanding on how to integrate a pneumatic actuator on a robotic arm, in our case the [Universal Robot UR10e](https://www.universal-robots.com/products/ur10-robot/) (or any UR model) through the example of a bespoke and affordable pneumatic gripper system.
 
 Included in the repository are:
 
-- Custom Pneumatic Gripper CAD Files: For 3D printing the mountable structure of the gripper,
+- Custom Pneumatic Gripper CAD Files: For 3D printing the mountable structure of the gripper and the flexible fingers,
 - Wiring Diagram: Including both pneumatic an electrical wiring information,
 - Scripts: Grasshopper toolpath example.
 
@@ -50,7 +50,7 @@ Diagram made with the open-source tool [Fritzing](https://fritzing.org/).
 
 ### CAD Files
 
-A structural body system fitting the robotic arm's flange was designed and fabricated connecting a generic MHC2-25D pneumatic gripper and a generic 5-way, 2-position solenoid valve.
+A structural body system fitting the robotic arm's flange was designed and fabricated connecting a generic MHC2-25D pneumatic gripper and a generic 5-way, 2-position solenoid valve. Based on [the fin ray effect](https://doi.org/10.1007/s40430-024-04957-0), an adaptative and interchageable set of robotic fingers was also modeled.
 
 Picture
 
