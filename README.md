@@ -34,6 +34,7 @@ Both pneumatic gripper and electronic solenoid valve are industrial-grade, affor
 This whole setup cost less than 60 USD at the time of writing.
 
 ## Setup and Installation
+
 ### Prerequisites
 
 - UR10e Robotic Arm (or any UR models),
@@ -51,10 +52,12 @@ Diagram made with the open-source tool [Fritzing](https://fritzing.org/).
 ### CAD Files
 
 A structural body system fitting the robotic arm's flange was designed and fabricated connecting a generic MHC2-25D pneumatic gripper and a generic 5-way, 2-position solenoid valve. Based on [the fin ray effect](https://doi.org/10.1007/s40430-024-04957-0), an adaptative and interchageable set of robotic fingers was also modeled.
+The later was also 3D printed with PLA and is working as expected. However, a PETG or TPU version would yield better results although the design would need to be adapted.
 
-Picture
+![GripperExploded](Pictures/GripperExploded.jpg)
 
-- [Pressure Gauge Mount](Mounts/Print_WASP_Gauge_Mount.stl) 3D printing file.
+- [Body](Mounts/Print_WASP_Gauge_Mount.stl) 3D printing file.
+- [Fingers](Mounts/Print_WASP_Gauge_Mount.stl) 3D printing file.
 
 If customization is desired, Rhino files for each of the parts are in the repository.
 
