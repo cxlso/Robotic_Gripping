@@ -82,7 +82,7 @@ https://github.com/user-attachments/assets/d02727e6-7be6-4e2c-b9e1-815e54aebf75
 https://github.com/user-attachments/assets/525a650b-c3f4-41bc-b1ef-6184d4fb3f9b
 
 
-<img src="https://github.com/cxlso/Robotic_Gripping/blob/main/Pictures/Gripper-1.jpg" width="30%"></img> <img src="https://github.com/cxlso/WASP_Clay_Kit_on_UR10e/assets/29285706/89d7e5ce-7859-4b5a-a5f2-1e414ffa1e72" width="30%"></img> <img src="https://github.com/cxlso/WASP_Clay_Kit_on_UR10e/assets/29285706/4aa184af-260e-4af6-98c6-0a439567bca1" width="30%"></img> <img src="https://github.com/cxlso/WASP_Clay_Kit_on_UR10e/assets/29285706/ed99ab35-0377-4086-8379-853a09c1a58a" width="30%"></img> <img src="https://github.com/cxlso/WASP_Clay_Kit_on_UR10e/assets/29285706/0f314707-daf7-4156-bb90-15b5b7b183bd" width="30%"></img> <img src="https://github.com/cxlso/WASP_Clay_Kit_on_UR10e/assets/29285706/fc469f98-22c2-4a00-bf53-687e2ca2adb3" width="30%"></img> 
+<img src="https://github.com/cxlso/Robotic_Gripping/blob/main/Pictures/Gripper-1.jpg" width="30%"></img> <img src="https://github.com/cxlso/Robotic_Gripping/blob/main/Pictures/Gripper-3.jpg" width="30%"></img> <img src="https://github.com/cxlso/Robotic_Gripping/blob/main/Pictures/Gripper-6.jpg" width="30%"></img> <img src="https://github.com/cxlso/Robotic_Gripping/blob/main/Pictures/Gripper-4.jpg" width="30%"></img> <img src="https://github.com/cxlso/Robotic_Gripping/blob/main/Pictures/Gripper-5.jpg" width="30%"></img> <img src="https://github.com/cxlso/Robotic_Gripping/blob/main/Pictures/Gripper-7.jpg" width="30%"></img> 
 
 ## Contributing
 
