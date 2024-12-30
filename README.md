@@ -77,6 +77,12 @@ This work-around was required because TO0 or TO1, the digital outputs of the fla
 
 ## Pictures and Videos
 
+https://github.com/user-attachments/assets/d02727e6-7be6-4e2c-b9e1-815e54aebf75
+
+https://github.com/user-attachments/assets/525a650b-c3f4-41bc-b1ef-6184d4fb3f9b
+
+
+
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or improvements.
