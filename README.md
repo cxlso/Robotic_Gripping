@@ -4,7 +4,7 @@
 ![GripperMovement](Pictures/GripperMovment.jpg)
 
 ## Overview
-This repository contains everyting needed to get on understanding on how to integrate a pneumatic actuator on a robotic arm, in our case the [Universal Robot UR10e](https://www.universal-robots.com/products/ur10-robot/) (or any UR model) through the example of a bespoke and affordable pneumatic gripper system.
+This repository contains everyting needed to get an understanding on how to integrate a pneumatic actuator on a robotic arm, in our case the [Universal Robot UR10e](https://www.universal-robots.com/products/ur10-robot/) (or any UR model) through the example of a bespoke and affordable pneumatic gripper system.
 
 Included in the repository are:
 
